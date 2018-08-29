@@ -1,3 +1,14 @@
+## Fored
+
+fored from [node-pixi](https://github.com/timknip/node-pixi)
+
+
+## Changes
+
+add docker-running
+
+set canvas version at 2.0.0-alpha.9
+
 ## node-pixi
 
 Run [PIXI.js](https://github.com/pixijs/pixi.js/) on node.

@@ -1,0 +1,301 @@
+{
+  "{\"filename\":\"/root/test/index.spec.js\",\"env\":{},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/root/test\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.3": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "fs",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "fs"
+              }
+            ]
+          },
+          {
+            "source": "xb.node-pixi",
+            "imported": [
+              "PIXI",
+              "Canvas"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "PIXI",
+                "local": "PIXI"
+              },
+              {
+                "kind": "named",
+                "imported": "Canvas",
+                "local": "Canvas"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/root/test/index.spec.js",
+      "filenameRelative": "/root/test/index.spec.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "index.spec.js",
+      "sourceFileName": "index.spec.js",
+      "sourceRoot": "/root/test",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/root/test",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "index.spec"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nvar _fs = require('fs');\n\nvar _fs2 = _interopRequireDefault(_fs);\n\nvar _xb = require('xb.node-pixi');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\ndescribe('index', function () {\n    this.timeout(5000);\n\n    it('should test PIXI', function (cb) {\n\n        var app = new _xb.PIXI.Application({ backgroundColor: 0xff0000, forceCanvas: false });\n\n        _xb.PIXI.loader.add('che', 'https://www.famousbirthdays.com/headshots/che-guevara-1.jpg');\n\n        var has_error = false;\n        _xb.PIXI.loader.onComplete.add(function () {\n\n            var che = new _xb.PIXI.Sprite(_xb.PIXI.loader.resources.che.texture);\n\n            // Setup the position of che\n            che.x = app.renderer.width / 2;\n            che.y = app.renderer.height / 2;\n\n            // Rotate around the center\n            che.anchor.x = 0.5;\n            che.anchor.y = 0.5;\n\n            // Add che to the scene we are building\n            app.stage.addChild(che);\n\n            app.render();\n\n            app.view.toBuffer('jpg', 1).then(function (buffer) {\n                _fs2.default.writeFileSync('che.jpg', buffer);\n\n                if (!has_error) cb();\n            }).catch(cb);\n        });\n\n        _xb.PIXI.loader.onError.add(function (err) {\n            has_error = true;\n            cb(err);\n        });\n\n        _xb.PIXI.loader.load();\n    });\n});\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnNwZWMuanMiXSwibmFtZXMiOlsiZGVzY3JpYmUiLCJ0aW1lb3V0IiwiaXQiLCJjYiIsImFwcCIsIlBJWEkiLCJBcHBsaWNhdGlvbiIsImJhY2tncm91bmRDb2xvciIsImZvcmNlQ2FudmFzIiwibG9hZGVyIiwiYWRkIiwiaGFzX2Vycm9yIiwib25Db21wbGV0ZSIsImNoZSIsIlNwcml0ZSIsInJlc291cmNlcyIsInRleHR1cmUiLCJ4IiwicmVuZGVyZXIiLCJ3aWR0aCIsInkiLCJoZWlnaHQiLCJhbmNob3IiLCJzdGFnZSIsImFkZENoaWxkIiwicmVuZGVyIiwidmlldyIsInRvQnVmZmVyIiwidGhlbiIsImZzIiwid3JpdGVGaWxlU3luYyIsImJ1ZmZlciIsImNhdGNoIiwib25FcnJvciIsImVyciIsImxvYWQiXSwibWFwcGluZ3MiOiI7O0FBQUE7Ozs7QUFDQTs7OztBQUVBQSxTQUFVLE9BQVYsRUFBbUIsWUFBWTtBQUMzQixTQUFLQyxPQUFMLENBQWEsSUFBYjs7QUFFQUMsT0FBSSxrQkFBSixFQUF3QixVQUFDQyxFQUFELEVBQVE7O0FBRTVCLFlBQU1DLE1BQU0sSUFBSUMsU0FBS0MsV0FBVCxDQUFxQixFQUFDQyxpQkFBaUIsUUFBbEIsRUFBNEJDLGFBQWEsS0FBekMsRUFBckIsQ0FBWjs7QUFFQUgsaUJBQUtJLE1BQUwsQ0FBWUMsR0FBWixDQUFnQixLQUFoQixFQUF1Qiw2REFBdkI7O0FBRUEsWUFBSUMsWUFBWSxLQUFoQjtBQUNBTixpQkFBS0ksTUFBTCxDQUFZRyxVQUFaLENBQXVCRixHQUF2QixDQUEyQixZQUFNOztBQUU3QixnQkFBSUcsTUFBTSxJQUFJUixTQUFLUyxNQUFULENBQWdCVCxTQUFLSSxNQUFMLENBQVlNLFNBQVosQ0FBc0JGLEdBQXRCLENBQTBCRyxPQUExQyxDQUFWOztBQUVBO0FBQ0FILGdCQUFJSSxDQUFKLEdBQVFiLElBQUljLFFBQUosQ0FBYUMsS0FBYixHQUFxQixDQUE3QjtBQUNBTixnQkFBSU8sQ0FBSixHQUFRaEIsSUFBSWMsUUFBSixDQUFhRyxNQUFiLEdBQXNCLENBQTlCOztBQUVBO0FBQ0FSLGdCQUFJUyxNQUFKLENBQVdMLENBQVgsR0FBZSxHQUFmO0FBQ0FKLGdCQUFJUyxNQUFKLENBQVdGLENBQVgsR0FBZSxHQUFmOztBQUVBO0FBQ0FoQixnQkFBSW1CLEtBQUosQ0FBVUMsUUFBVixDQUFtQlgsR0FBbkI7O0FBRUFULGdCQUFJcUIsTUFBSjs7QUFFQXJCLGdCQUFJc0IsSUFBSixDQUFTQyxRQUFULENBQWtCLEtBQWxCLEVBQXlCLENBQXpCLEVBQTRCQyxJQUE1QixDQUFpQyxrQkFBVTtBQUN2Q0MsNkJBQUdDLGFBQUgsQ0FBaUIsU0FBakIsRUFBNEJDLE1BQTVCOztBQUVBLG9CQUFJLENBQUNwQixTQUFMLEVBQWdCUjtBQUNuQixhQUpELEVBSUc2QixLQUpILENBSVM3QixFQUpUO0FBS0gsU0F0QkQ7O0FBd0JBRSxpQkFBS0ksTUFBTCxDQUFZd0IsT0FBWixDQUFvQnZCLEdBQXBCLENBQXdCLFVBQUN3QixHQUFELEVBQVM7QUFDN0J2Qix3QkFBWSxJQUFaO0FBQ0FSLGVBQUcrQixHQUFIO0FBQ0gsU0FIRDs7QUFLQTdCLGlCQUFLSSxNQUFMLENBQVkwQixJQUFaO0FBQ0gsS0FyQ0Q7QUFzQ0gsQ0F6Q0QiLCJmaWxlIjoiaW5kZXguc3BlYy5qcyIsInNvdXJjZVJvb3QiOiIvcm9vdC90ZXN0Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IGZzIGZyb20gJ2ZzJztcbmltcG9ydCB7UElYSSwgQ2FudmFzfSBmcm9tICd4Yi5ub2RlLXBpeGknO1xuXG5kZXNjcmliZSAoJ2luZGV4JywgZnVuY3Rpb24gKCkge1xuICAgIHRoaXMudGltZW91dCg1MDAwKTtcblxuICAgIGl0ICgnc2hvdWxkIHRlc3QgUElYSScsIChjYikgPT4ge1xuXG4gICAgICAgIGNvbnN0IGFwcCA9IG5ldyBQSVhJLkFwcGxpY2F0aW9uKHtiYWNrZ3JvdW5kQ29sb3I6IDB4ZmYwMDAwLCBmb3JjZUNhbnZhczogZmFsc2V9KTtcblxuICAgICAgICBQSVhJLmxvYWRlci5hZGQoJ2NoZScsICdodHRwczovL3d3dy5mYW1vdXNiaXJ0aGRheXMuY29tL2hlYWRzaG90cy9jaGUtZ3VldmFyYS0xLmpwZycpO1xuXG4gICAgICAgIGxldCBoYXNfZXJyb3IgPSBmYWxzZTtcbiAgICAgICAgUElYSS5sb2FkZXIub25Db21wbGV0ZS5hZGQoKCkgPT4ge1xuXG4gICAgICAgICAgICBsZXQgY2hlID0gbmV3IFBJWEkuU3ByaXRlKFBJWEkubG9hZGVyLnJlc291cmNlcy5jaGUudGV4dHVyZSk7XG5cbiAgICAgICAgICAgIC8vIFNldHVwIHRoZSBwb3NpdGlvbiBvZiBjaGVcbiAgICAgICAgICAgIGNoZS54ID0gYXBwLnJlbmRlcmVyLndpZHRoIC8gMjtcbiAgICAgICAgICAgIGNoZS55ID0gYXBwLnJlbmRlcmVyLmhlaWdodCAvIDI7XG5cbiAgICAgICAgICAgIC8vIFJvdGF0ZSBhcm91bmQgdGhlIGNlbnRlclxuICAgICAgICAgICAgY2hlLmFuY2hvci54ID0gMC41O1xuICAgICAgICAgICAgY2hlLmFuY2hvci55ID0gMC41O1xuXG4gICAgICAgICAgICAvLyBBZGQgY2hlIHRvIHRoZSBzY2VuZSB3ZSBhcmUgYnVpbGRpbmdcbiAgICAgICAgICAgIGFwcC5zdGFnZS5hZGRDaGlsZChjaGUpO1xuXG4gICAgICAgICAgICBhcHAucmVuZGVyKCk7XG5cbiAgICAgICAgICAgIGFwcC52aWV3LnRvQnVmZmVyKCdqcGcnLCAxKS50aGVuKGJ1ZmZlciA9PiB7XG4gICAgICAgICAgICAgICAgZnMud3JpdGVGaWxlU3luYygnY2hlLmpwZycsIGJ1ZmZlcik7XG5cbiAgICAgICAgICAgICAgICBpZiAoIWhhc19lcnJvcikgY2IoKTtcbiAgICAgICAgICAgIH0pLmNhdGNoKGNiKTtcbiAgICAgICAgfSk7XG5cbiAgICAgICAgUElYSS5sb2FkZXIub25FcnJvci5hZGQoKGVycikgPT4ge1xuICAgICAgICAgICAgaGFzX2Vycm9yID0gdHJ1ZTtcbiAgICAgICAgICAgIGNiKGVycik7XG4gICAgICAgIH0pO1xuXG4gICAgICAgIFBJWEkubG9hZGVyLmxvYWQoKTtcbiAgICB9KTtcbn0pO1xuIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "index.spec.js"
+      ],
+      "names": [
+        "describe",
+        "timeout",
+        "it",
+        "cb",
+        "app",
+        "PIXI",
+        "Application",
+        "backgroundColor",
+        "forceCanvas",
+        "loader",
+        "add",
+        "has_error",
+        "onComplete",
+        "che",
+        "Sprite",
+        "resources",
+        "texture",
+        "x",
+        "renderer",
+        "width",
+        "y",
+        "height",
+        "anchor",
+        "stage",
+        "addChild",
+        "render",
+        "view",
+        "toBuffer",
+        "then",
+        "fs",
+        "writeFileSync",
+        "buffer",
+        "catch",
+        "onError",
+        "err",
+        "load"
+      ],
+      "mappings": ";;AAAA;;;;AACA;;;;AAEAA,SAAU,OAAV,EAAmB,YAAY;AAC3B,SAAKC,OAAL,CAAa,IAAb;;AAEAC,OAAI,kBAAJ,EAAwB,UAACC,EAAD,EAAQ;;AAE5B,YAAMC,MAAM,IAAIC,SAAKC,WAAT,CAAqB,EAACC,iBAAiB,QAAlB,EAA4BC,aAAa,KAAzC,EAArB,CAAZ;;AAEAH,iBAAKI,MAAL,CAAYC,GAAZ,CAAgB,KAAhB,EAAuB,6DAAvB;;AAEA,YAAIC,YAAY,KAAhB;AACAN,iBAAKI,MAAL,CAAYG,UAAZ,CAAuBF,GAAvB,CAA2B,YAAM;;AAE7B,gBAAIG,MAAM,IAAIR,SAAKS,MAAT,CAAgBT,SAAKI,MAAL,CAAYM,SAAZ,CAAsBF,GAAtB,CAA0BG,OAA1C,CAAV;;AAEA;AACAH,gBAAII,CAAJ,GAAQb,IAAIc,QAAJ,CAAaC,KAAb,GAAqB,CAA7B;AACAN,gBAAIO,CAAJ,GAAQhB,IAAIc,QAAJ,CAAaG,MAAb,GAAsB,CAA9B;;AAEA;AACAR,gBAAIS,MAAJ,CAAWL,CAAX,GAAe,GAAf;AACAJ,gBAAIS,MAAJ,CAAWF,CAAX,GAAe,GAAf;;AAEA;AACAhB,gBAAImB,KAAJ,CAAUC,QAAV,CAAmBX,GAAnB;;AAEAT,gBAAIqB,MAAJ;;AAEArB,gBAAIsB,IAAJ,CAASC,QAAT,CAAkB,KAAlB,EAAyB,CAAzB,EAA4BC,IAA5B,CAAiC,kBAAU;AACvCC,6BAAGC,aAAH,CAAiB,SAAjB,EAA4BC,MAA5B;;AAEA,oBAAI,CAACpB,SAAL,EAAgBR;AACnB,aAJD,EAIG6B,KAJH,CAIS7B,EAJT;AAKH,SAtBD;;AAwBAE,iBAAKI,MAAL,CAAYwB,OAAZ,CAAoBvB,GAApB,CAAwB,UAACwB,GAAD,EAAS;AAC7BvB,wBAAY,IAAZ;AACAR,eAAG+B,GAAH;AACH,SAHD;;AAKA7B,iBAAKI,MAAL,CAAY0B,IAAZ;AACH,KArCD;AAsCH,CAzCD",
+      "file": "index.spec.js",
+      "sourceRoot": "/root/test",
+      "sourcesContent": [
+        "import fs from 'fs';\nimport {PIXI, Canvas} from 'xb.node-pixi';\n\ndescribe ('index', function () {\n    this.timeout(5000);\n\n    it ('should test PIXI', (cb) => {\n\n        const app = new PIXI.Application({backgroundColor: 0xff0000, forceCanvas: false});\n\n        PIXI.loader.add('che', 'https://www.famousbirthdays.com/headshots/che-guevara-1.jpg');\n\n        let has_error = false;\n        PIXI.loader.onComplete.add(() => {\n\n            let che = new PIXI.Sprite(PIXI.loader.resources.che.texture);\n\n            // Setup the position of che\n            che.x = app.renderer.width / 2;\n            che.y = app.renderer.height / 2;\n\n            // Rotate around the center\n            che.anchor.x = 0.5;\n            che.anchor.y = 0.5;\n\n            // Add che to the scene we are building\n            app.stage.addChild(che);\n\n            app.render();\n\n            app.view.toBuffer('jpg', 1).then(buffer => {\n                fs.writeFileSync('che.jpg', buffer);\n\n                if (!has_error) cb();\n            }).catch(cb);\n        });\n\n        PIXI.loader.onError.add((err) => {\n            has_error = true;\n            cb(err);\n        });\n\n        PIXI.loader.load();\n    });\n});\n"
+      ]
+    },
+    "mtime": 1535555409000
+  }
+}

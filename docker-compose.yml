@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  node-pixi:
+    # build: .
+    image: xiaobe/node-pixi
+    volumes:
+      - ./:/root
+    command: npm link xb.node-pixi 
+    command: node index.js

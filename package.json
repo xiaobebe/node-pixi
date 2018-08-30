@@ -13,12 +13,13 @@
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "babel src --out-dir lib",
-    "test": "mocha -c"
+    "test": "mocha -c",
+    "dev": "npm run prepublish && node index.js"
   },
   "author": "Tim Knip <tim@floorplanner.com> (http://www.floorplanner.com/)",
   "license": "MIT",
   "dependencies": {
-    "canvas": "2.0.0-alpha.9",
+    "canvas": "2.0.0-alpha.13",
     "gl": "4.0.4",
     "pixi.js": "4.7.0",
     "request": "2.83.0",

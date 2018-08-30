@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { PIXI, Canvas } = require("xb.node-pixi");
+const { PIXI, Canvas } = require("./lib/index.js");
 
 const app = new PIXI.Application({
   backgroundColor: 0xff0000,

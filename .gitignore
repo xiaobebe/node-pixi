@@ -6,3 +6,5 @@ node_modules
 *.svg
 .npm
 .config
+.node-gyp
+.bash_history
